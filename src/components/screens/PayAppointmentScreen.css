@@ -1,0 +1,46 @@
+.payment-screen-container {
+    padding: 0px;
+    border-radius: 8px;
+}
+
+.appointment-details {
+    margin-top: 20px;
+}
+
+.appointment-details h5,
+.appointment-details h6 {
+    color: #333; 
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.appointment-details p {
+    /* margin-bottom: 10px; */
+    font-size: 1.1rem;
+    color: #555;
+}
+
+.appointment-details span {
+    font-weight: normal; 
+}
+
+.text-success {
+    color: #28a745;
+}
+
+.shadow {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem; 
+}
+.paypal-button {
+    border: none; 
+    padding: 10px 20px;
+}
+
